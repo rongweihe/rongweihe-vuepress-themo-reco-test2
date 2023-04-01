@@ -47,3 +47,5 @@ theme-cli init
 yarn global add @vuepress-reco/theme-cli@1.0.7
 theme-cli init
 ```
+# vuepress-theme-reco docs/.vuepress/dist
+# vuepress-theme-reco dist
